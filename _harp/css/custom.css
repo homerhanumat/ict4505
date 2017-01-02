@@ -12,3 +12,25 @@
     color: black ! important;
     border: 2px #ff9c00;
 }
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.footer {
+    background-color: rgba(147, 152, 160, 0.2);
+    border-top: solid darkslategray 3px;
+    position: absolute;
+    bottom: 0;
+    height: 60px;
+    width: 100%;
+}
+
+.container .text-muted {
+    margin: 20px 0;
+}

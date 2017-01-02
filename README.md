@@ -1,1 +1,0 @@
-I'm taking an online course from Denver University:  *ICT 4505 Website Design and Management*.  The `gh-pages` branch of this repository contains the source files for a personal site associated with my participation in this course.

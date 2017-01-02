@@ -12,3 +12,10 @@
     color: black ! important;
     border: 2px #ff9c00;
 }
+
+.footer {
+    background-color: rgba(147, 152, 160, 0.2);
+    border-top: solid darkslategray 3px;
+    margin-top: 20px;
+    padding: 5px 0 0 10px;
+}

@@ -25,7 +25,6 @@ body {
 .footer {
     background-color: rgba(147, 152, 160, 0.2);
     border-top: solid darkslategray 3px;
-    margin-top: 20px;
     position: absolute;
     bottom: 0;
     height: 60px;
